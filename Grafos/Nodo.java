@@ -8,7 +8,7 @@ import java.util.LinkedList;
  */
 public class Nodo {
 
-    //  ATRIBUTOS DE MIS NODOS
+    //  ATRIBUTOS DE MIS NODOS 
     private int value;
     private String valueChar;
     private LinkedList<Nodo> vecinos = new LinkedList<Nodo>();
