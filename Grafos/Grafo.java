@@ -7,7 +7,7 @@ import java.util.*;
  */
 public class Grafo {
 
-    //      ATRIBUTO DEL GRAFO
+    //      ATRIBUTO DEL GRAFO 
     private LinkedList<Nodo> nodeList = new LinkedList<Nodo>();
     private LinkedList<Arista> costList = new LinkedList<Arista>();
 
